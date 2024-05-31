@@ -13,7 +13,7 @@ This is an online bookstore application developed using Java Spring Boot. The ap
 ## Technologies Used
 - **Backend**: Java Spring Boot
 - **Database**: MySQL
-- **Frontend**: Thymeleaf, Bootstrap
+- **Frontend**: Angular
 
 ## Setup and Installation
 1. Clone the repository:
